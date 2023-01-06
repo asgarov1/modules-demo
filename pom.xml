@@ -22,6 +22,9 @@
   </build>
     <modules>
         <module>com.asgarov.greeting</module>
+        <module>com.asgarov.demo</module>
+        <module>com.asgarov.tours.api</module>
+        <module>com.asgarov.tours.provider</module>
     </modules>
 
     <properties>
